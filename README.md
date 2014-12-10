@@ -1,4 +1,2 @@
-yunakquiz-angular
-=================
-
-Front-end part of the YunaQuiz project
+yunakquiz-sinatra
+Back-end part of the YunakQuiz project
