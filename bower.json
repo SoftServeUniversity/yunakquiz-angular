@@ -2,7 +2,7 @@
   "name": "yunak-quiz",
   "description": "Yunak Quiz AngularJS application",
   "version": "0.0.0",
-  "homepage": "https://github.com/SoftServeUniversity/yunakquiz",
+  "homepage": "https://github.com/SoftServeUniversity/yunakquiz-angular",
   "license": "MIT",
   "private": true,
   "dependencies": {

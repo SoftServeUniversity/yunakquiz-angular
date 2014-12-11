@@ -1,1 +1,0 @@
-# Yunak Quiz single page web application
